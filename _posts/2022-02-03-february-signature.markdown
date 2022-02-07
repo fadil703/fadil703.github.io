@@ -11,3 +11,4 @@ author: "fadil703"
 | Anisa N H | MBKM | Logbook MBKM | 3 Feb 2022 |
 | Chandra B P | KP  | Lembar Monitoring KP | 3 Feb 2022 |
 | M Akbar Sidiq | Skripsi | Lembar Pengesahan | 4 Feb 2022 |
+| Tamam Falah R | KRS   | KRS    | 7 Feb 2022 |
