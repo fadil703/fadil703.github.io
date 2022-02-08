@@ -20,3 +20,4 @@ author: "fadil703"
 | Sulthan Esa | KRS | KRS | 8 Feb 2022  |
 | Rizky Ari W | KRS | KRS | 8 Feb 2022  |
 | Jofan Pradana | KRS | KRS | 8 Feb 2022  |
+| M Firman F | KRS | KRS | 8 Feb 2022  |
