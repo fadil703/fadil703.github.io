@@ -22,3 +22,7 @@ author: "fadil703"
 | Jofan Pradana | KRS | KRS | 8 Feb 2022  |
 | M Firman F | KRS | KRS | 8 Feb 2022  |
 | Mansyur | KRS | KRS | 8 Feb 2022  |
+| Ivan Munandar P | KRS | KRS | 8 Feb 2022  |
+| Aldewajana A H | KRS | KRS | 8 Feb 2022  |
+| Ismail Bintang | KRS | KRS | 8 Feb 2022  |
+| Adhitama W Y | KRS | KRS | 8 Feb 2022  |
