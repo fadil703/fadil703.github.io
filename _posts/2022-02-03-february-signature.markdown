@@ -29,3 +29,4 @@ author: "fadil703"
 | M Ihsan | KRS | KRS | 8 Feb 2022  |
 | Renaldy A | KRS | KRS | 8 Feb 2022  |
 | Renaldy A | MBKM | Form KM-1 | 8 Feb 2022  |
+| M Fifqi Fauzi | KRS | KRS | 8 Feb 2022  |
