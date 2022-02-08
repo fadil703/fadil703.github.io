@@ -14,3 +14,9 @@ author: "fadil703"
 | Tamam Falah R | KRS   | KRS    | 7 Feb 2022 |
 | Thoriq Nur J | KRS   | KRS    | 7 Feb 2022 |
 | Yumatofandi C | KRS   | KRS    | 8 Feb 2022 |
+| Naufal Widan D | KRS   | KRS    | 8 Feb 2022 |
+| Alif Ramadhan | KRS  | KRS  | 8 Feb 2022 |
+| M Figo    | KRS   | KRS   | 8 Feb 2022    |
+| Sulthan Esa | KRS | KRS | 8 Feb 2022  |
+| Rizky Ari W | KRS | KRS | 8 Feb 2022  |
+| Jofan Pradana | KRS | KRS | 8 Feb 2022  |
