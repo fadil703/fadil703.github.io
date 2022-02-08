@@ -26,3 +26,4 @@ author: "fadil703"
 | Aldewajana A H | KRS | KRS | 8 Feb 2022  |
 | Ismail Bintang | KRS | KRS | 8 Feb 2022  |
 | Adhitama W Y | KRS | KRS | 8 Feb 2022  |
+| M Ihsan | KRS | KRS | 8 Feb 2022  |
