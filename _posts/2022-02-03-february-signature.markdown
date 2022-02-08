@@ -13,3 +13,4 @@ author: "fadil703"
 | M Akbar Sidiq | Skripsi | Lembar Pengesahan | 4 Feb 2022 |
 | Tamam Falah R | KRS   | KRS    | 7 Feb 2022 |
 | Thoriq Nur J | KRS   | KRS    | 7 Feb 2022 |
+| Yumatofandi C | KRS   | KRS    | 8 Feb 2022 |
