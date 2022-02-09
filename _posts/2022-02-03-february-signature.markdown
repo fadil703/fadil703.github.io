@@ -32,3 +32,4 @@ author: "fadil703"
 | M Fifqi Fauzi | KRS | KRS | 8 Feb 2022  |
 | Fadil Muhammad | KRS | Berita acara perwalian | 9 Feb 2022 |
 | Eka Muspita D | KRS | KRS Manual | 9 Feb 2022 |
+| Andi Saputra | KRS | KRS | 9 Feb 2022 |
