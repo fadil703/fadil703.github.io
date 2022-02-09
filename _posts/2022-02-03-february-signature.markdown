@@ -30,3 +30,4 @@ author: "fadil703"
 | Renaldy A | KRS | KRS | 8 Feb 2022  |
 | Renaldy A | MBKM | Form KM-1 | 8 Feb 2022  |
 | M Fifqi Fauzi | KRS | KRS | 8 Feb 2022  |
+| Fadil Muhammad | KRS | Berita acara perwalian | 9 Feb 2022 |
