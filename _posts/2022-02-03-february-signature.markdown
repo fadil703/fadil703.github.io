@@ -33,3 +33,9 @@ author: "fadil703"
 | Fadil Muhammad | KRS | Berita acara perwalian | 9 Feb 2022 |
 | Eka Muspita D | KRS | KRS Manual | 9 Feb 2022 |
 | Andi Saputra | KRS | KRS | 9 Feb 2022 |
+| Bimantoro A M | KRS | KRS | 14 Feb 2022 |
+| Ivaldi Mikhael F | KRS | KRS | 14 Feb 2022 |
+| Abdul Majid R | KRS | KRS | 14 Feb 2022 |
+| M Ikhsan | KRS | KRS | 14 Feb 2022 |
+| Bagas Nuryanto | KRS | KRS | 14 Feb 2022 |
+| Bagas Nuryanto | MBKM | Form KM-1 | 14 Feb 2022 |
