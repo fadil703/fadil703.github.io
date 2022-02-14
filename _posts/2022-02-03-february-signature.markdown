@@ -39,3 +39,4 @@ author: "fadil703"
 | M Ikhsan | KRS | KRS | 14 Feb 2022 |
 | Bagas Nuryanto | KRS | KRS | 14 Feb 2022 |
 | Bagas Nuryanto | MBKM | Form KM-1 | 14 Feb 2022 |
+| Nugroho Anis R | Skripsi | Form TA-3 | 14 Feb 2022 |
