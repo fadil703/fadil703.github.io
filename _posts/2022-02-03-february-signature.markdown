@@ -41,3 +41,4 @@ author: "fadil703"
 | Bagas Nuryanto | MBKM | Form KM-1 | 14 Feb 2022 |
 | Nugroho Anis R | Skripsi | Form TA-3 | 14 Feb 2022 |
 | Dzaki Ibnu Adha | KRS | Form validasi | 14 Feb 2022 |
+| Chandra B P | KP  | Form KP-5 | 15 Feb 2022 |
