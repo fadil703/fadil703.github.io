@@ -42,3 +42,5 @@ author: "fadil703"
 | Nugroho Anis R | Skripsi | Form TA-3 | 14 Feb 2022 |
 | Dzaki Ibnu Adha | KRS | Form validasi | 14 Feb 2022 |
 | Chandra B P | KP  | Form KP-5 | 15 Feb 2022 |
+| Aslam A | KRS | Form Validasi | 22 Feb 2022 | 
+| Auvan A | KP | Form KP-2 | 22 Feb 2022 |
