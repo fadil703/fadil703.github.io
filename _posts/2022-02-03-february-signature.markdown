@@ -45,3 +45,5 @@ author: "fadil703"
 | Aslam S | KRS | Form Validasi | 22 Feb 2022 | 
 | Auvan A | KP | Form KP-2 | 22 Feb 2022 |
 | Nugroho Anis | Skripsi | Berita Acara Semhas | 24 Feb 2022 |
+| Chandra B P | KP  | Form KP-6 | 24 Feb 2022 |
+| Chandra B P | KP  | Lembar Pengesahan KP | 3 Feb 2022 |
