@@ -9,3 +9,4 @@ author: "fadil703"
 | Nama/Dokumen | Jenis | Keperluan | Tanggal |
 | ------ | ------ | ------ | ------ |
 | Adam Dwinanto | Skripsi | Lembar Pengesahan | 21 Mar 2022 |
+| Andi Saputra | KP | Form KP-1 | 21 Mar 2022 |
