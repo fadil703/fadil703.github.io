@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Tanda Tangan Bulan April"
+date:   2022-04-18 15:00:15 +0700
+categories: Signature
+author: "fadil703"
+---
+
+| Nama/Dokumen | Jenis | Keperluan | Tanggal |
+| ------ | ------ | ------ | ------ |
+| M Rifqi Fauzi | MBKM | Form KM-01 | 18 April 2022 |
+| Risky Ari W | MBKM | Form KM-01 | 18 April 2022 |
+| Jofan Pradana | MBKM | Form KM-01 | 18 April 2022 |
