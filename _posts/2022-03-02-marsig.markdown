@@ -10,3 +10,5 @@ author: "fadil703"
 | ------ | ------ | ------ | ------ |
 | Adam Dwinanto | Skripsi | Lembar Pengesahan | 21 Mar 2022 |
 | Andi Saputra | KP | Form KP-1 | 21 Mar 2022 |
+| M Rahman S | Proposal | Form TA-E1 | 25 Mar 2022 |
+| Anisa Nurul H | MBKM | Form KM-4 | 28 Mar 2022 |
