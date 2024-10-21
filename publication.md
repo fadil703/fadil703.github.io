@@ -17,5 +17,15 @@ IOP Conference Series: Materials Science and Engineering
 CA Wicaksana, R Febriani, F Muhammad <br />
 IOP Conference Series: Materials Science and Engineering
 
+[The design of an RFID-Based warehouse management system for AgroHUB banten](https://pubs.aip.org/aip/acp/article-abstract/2760/1/020009/2894017)<br />
+S Praptodiyono, MI Santoso, RH Sukarna, F Muhammad, A Fuad<br />
+AIP Conference Proceedings 2760
+
+[Automatic monitoring system for Oyster mushroom towards smart farming implementation](https://pubs.aip.org/aip/acp/article-abstract/2891/1/030004/3294968)<br />
+S Praptodiyono, CB Pratama, F Muhammad <br />
+AIP Conference Proceedings 2891
+
 ## Journal
--
+[Multiplatform of SVC Device for User Experience Mobile Robot Teleoperation](http://ijcs.net/ijcs/index.php/ijcs/article/view/3476) <br />
+F Muhammad, Masjudin <br />
+The Indonesian Journal of Computer Science
