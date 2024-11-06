@@ -16,6 +16,6 @@ This project simulated crowds evacuation with different conditions and scenarios
 ## Mobile Robot Teleoperation using Multi Devices 
 This project creates teleoperation for mobile robot using multi devices like virtual reality, mobile phone and computer. A camera was used as a visual sensor that dispatched the information of the surroundings to each platform. The controller was depended by the platform.
 
-[teleoperation](/blok_diagram.png)
+![teleoperation](/blok_diagram.png)
 <br />
 [Publication link](http://ijcs.net/ijcs/index.php/ijcs/article/view/3476) <br />
