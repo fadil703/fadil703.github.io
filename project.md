@@ -7,6 +7,7 @@ permalink: /project/
 ## Crowds Evacuation for Heterogeneous Agent
 
 This project simulated crowds evacuation with different conditions and scenarios. A* algorithm and Optimal reciprocal collision avoidance were used as a navigation and collision avoidance methods. 
+![crowd](/crowd.png)
 <br />
 [Publication link](https://ieeexplore.ieee.org/abstract/document/8711117/) <br />
 
